@@ -1,8 +1,7 @@
 public class ArbolBinario {
     Nodo raiz;
 
-    // Metodo insertar (aun no implementado)
-    /*
+    // Metodo insertar (YA IMPLEMENTADO)
     public Nodo insertar(Nodo raiz, int valor) {
         if (raiz == null) {
             return new Nodo(valor);
@@ -16,7 +15,6 @@ public class ArbolBinario {
 
         return raiz;
     }
-    */
 
     // Metodo inorden (aun no implementado)
     /*
