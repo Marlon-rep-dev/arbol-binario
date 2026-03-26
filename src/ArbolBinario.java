@@ -16,8 +16,7 @@ public class ArbolBinario {
         return raiz;
     }
 
-    // Metodo inorden (aun no implementado)
-    /*
+    // Metodo inorden (YA IMPLEMENTADO)
     public void inorden(Nodo raiz) {
         if (raiz != null) {
             inorden(raiz.izquierdo);
@@ -25,7 +24,6 @@ public class ArbolBinario {
             inorden(raiz.derecho);
         }
     }
-    */
 
     // Metodo buscar (aun no implementado)
     /*
