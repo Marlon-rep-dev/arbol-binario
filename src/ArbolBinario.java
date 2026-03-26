@@ -25,8 +25,7 @@ public class ArbolBinario {
         }
     }
 
-    // Metodo buscar (aun no implementado)
-    /*
+    // Metodo buscar (YA ACTIVADO)
     public boolean buscar(Nodo raiz, int valor) {
         if (raiz == null) {
             return false;
@@ -42,5 +41,4 @@ public class ArbolBinario {
             return buscar(raiz.derecho, valor);
         }
     }
-    */
 }
